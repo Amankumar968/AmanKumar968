@@ -1,4 +1,5 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![MasterHead](https://img.freepik.com/free-vector/development-concept-with-programmer-working-laptop_23-2148260011.jpg?w=996&t=st=1719136369~exp=1719136969~hmac=52a3819e4a0550f2a0ecda9327abbe127001bd6ea5a79c7dbcd3ffb9a51508c1)
+
 
 <h1 align="center">Hi 👋, I'm Amankumar968</h1>
 
